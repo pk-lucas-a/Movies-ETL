@@ -4,4 +4,4 @@ This project extracted movie and rating data in CSV and JSON formats into pandas
 
 ![movies_query.png](Resources/movies_query.png)
  
-![ratings_query.png](Resources/ratings_query.png.png)
+![ratings_query.png](Resources/ratings_query.png)
